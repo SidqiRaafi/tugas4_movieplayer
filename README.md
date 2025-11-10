@@ -12,6 +12,15 @@ A Netflix-like movie streaming UI built using Flutter, demonstrating carousel sl
   <img src="/assets/images/demo.png" alt="App Preview" width="400"/>
 </p>
 
+# App Demo
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=ltJi8MrjGz4" target="_blank">
+    <img src="https://img.youtube.com/vi/ltJi8MrjGz4/0.jpg" width="750" />
+  </a>
+</div>
+
+
 ## Features
 
 - Carousel slider to showcase featured movies
